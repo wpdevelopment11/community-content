@@ -27,7 +27,8 @@
             "type": "string"
         },
         "short_description": {
-            "type": "string"
+            "type": "string",
+            "maxLength": 159
         },
         "tags": {
             "type": "array",
